@@ -1,9 +1,6 @@
 #%% VS Code Notebook
 # Copyright 2022 CMPUT 466 Staff
 # Implement Naive Bayes Classifier with Laplace Smoothing
-from cmath import exp
-import enum
-from turtle import shape
 import numpy as np
 import pandas as pd
 
